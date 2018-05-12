@@ -1,5 +1,8 @@
 _repo: Umbrellas-and-Their-History_6674
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sangster, William
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '2145'
     url: http://www.gutenberg.org/2009/agents/2145
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6674#Umbrellas-and-Their-History
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
 identifiers:
